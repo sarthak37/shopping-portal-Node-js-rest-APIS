@@ -1,0 +1,8 @@
+1)Register
+2)login
+3)I
+4)add product
+5)update product
+6)get all product
+7)get single product
+8)delete a product
